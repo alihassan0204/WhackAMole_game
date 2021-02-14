@@ -1,1 +1,1 @@
-# WholeAPack_game
+# WhackAMole_game
